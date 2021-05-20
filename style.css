@@ -1,0 +1,12 @@
+html {
+    /* prevent border to add extra width/height to page */
+    box-sizing: border-box;
+}
+
+body {
+    /* margin for all sides */
+    margin: 0;
+    /* vh: full height of the entire window you're in.*/
+    /* min-height: 100vh; */
+    background: orange;
+}
